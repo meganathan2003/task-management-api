@@ -109,7 +109,7 @@ Here’s a summary of the available API endpoints:
 ### Authentication
 | Method | Endpoint           | Description         |
 | ------ | ------------------ | ------------------- |
-| POST   | `/api/auth/signup` | Register a new user |
+| POST   | `/api/auth/register` | Register a new user |
 | POST   | `/api/auth/login`  | Authenticate a user |
 
 ### CRUD Operations
