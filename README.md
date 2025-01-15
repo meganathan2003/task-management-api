@@ -1,5 +1,5 @@
 
-# Project Name: [Task-Management]
+# Project Name: Task-Management
 
 ## Description
 This is a backend API for managing recipes, built using Node.js, Express.js, and MongoDB. It includes CRUD operations, user authentication, and deployment on Render.
@@ -78,7 +78,6 @@ To test the API, import the Postman collection provided in this repository:
 This collection includes all the endpoints, example requests, and responses for:
 - Authentication
 - CRUD operations
-- Any additional features
 
 ---
 
@@ -86,10 +85,10 @@ This collection includes all the endpoints, example requests, and responses for:
 
 ### Deployed URL
 The live API is deployed and accessible at:
-- **Base URL**: [URL : ](https://task-management-api-k7mm.onrender.com)
+- **Base URL**: [https://task-management-api-k7mm.onrender.com](https://task-management-api-k7mm.onrender.com)
 
 ### Deployment Platform
-The API is deployed using [Render].
+The API is deployed using [Render](https://render.com).
 
 ### Deployment Steps
 1. Push your code to the main branch of your GitHub repository.
