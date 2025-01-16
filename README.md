@@ -32,7 +32,7 @@ Ensure the following are installed on your machine:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repository
+   cd task-management-api
    ```
 3. Install dependencies:
    ```bash
@@ -117,7 +117,7 @@ Here’s a summary of the available API endpoints:
 | ------ | ---------------- | -------------------- |
 | GET    | `/api/tasks`     | Get all task         |
 | POST   | `/api/tasks`     | Create a new task    |
-| PUT    | `/api/tasks/:id` | Update an task by ID |
+| PATCH    | `/api/tasks/:id` | Update an task by ID |
 | DELETE | `/api/tasks/:id` | Delete an task by ID |
 
 ---
